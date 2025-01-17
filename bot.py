@@ -17,8 +17,8 @@ load_dotenv()
 
 
 # BitMart API credentials from .env file
-API_KEY = os.getenv("971d19e29391401ed532770974c4abbb7b7d9e9e")
-API_SECRET = os.getenv("a2ac3c359de5b1ad67b30a715a5d90b9c3c023d71b77f02b9acd81a9b99968f7")
+API_KEY = os.getenv("")
+API_SECRET = os.getenv("")
 
 
 
